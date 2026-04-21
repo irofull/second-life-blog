@@ -1,5 +1,4 @@
 baseURL = "/"
 languageCode = "ja"
 title = "The best is yet to come."
-theme = ""
 paginate = 6

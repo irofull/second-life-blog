@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="{{ .Site.LanguageCode }}">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{{ if .IsHome }}{{ .Site.Title }}{{ else }}{{ .Title }} | {{ .Site.Title }}{{ end }}</title>
+  {{ $css := resources.Get "css/main.css" }}
+  <link rel="stylesheet" href="{{ $css.RelPermalink }}">
+</head>
+<body>
+
+  {{- block "main" . }}{{- end }}
+
+  <footer class="site-footer">
+    <div class="footer-inner">
+
+      <p class="footer-logo-title">The best is yet to come.</p>
+      <p class="footer-logo-sub">これからが、いちばんいい。</p>
+      <p class="footer-logo-name">— Rumie —</p>
+
+      <hr class="footer-rule">
+
+      <nav class="footer-categories">
+        <a href="/categories/健康・運動/">健康・運動</a>
+        <a href="/categories/旅行・お出かけ/">旅行・お出かけ</a>
+        <a href="/categories/お金・資産/">お金・資産</a>
+        <a href="/categories/食事・宅配/">食事・宅配</a>
+        <a href="/categories/ai・デジタル/">AI・デジタル</a>
+        <a href="/categories/暮らし・家電/">暮らし・家電</a>
+      </nav>
+
+      <hr class="footer-rule">
+
+      <nav class="footer-links">
+        <a href="/privacy/">プライバシーポリシー</a>
+        <a href="/contact/">お問い合わせ</a>
+        <a href="/about/">プロフィール</a>
+      </nav>
+
+      <p class="footer-copy">© 2024 Rumie / The best is yet to come.</p>
+
+    </div>
+  </footer>
+
+</body>
+</html>

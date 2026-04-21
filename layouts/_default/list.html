@@ -1,0 +1,47 @@
+{{ define "main" }}
+<section class="list-page">
+  <div class="container">
+
+    <div class="list-header">
+      <h1 class="list-title">{{ .Title }}</h1>
+      <hr class="list-rule">
+    </div>
+
+    <div class="posts-grid">
+      {{ range .Paginator.Pages }}
+      <article class="post-card">
+        {{ with .Params.thumbnail }}
+        <div class="card-thumb">
+          <img src="{{ . }}" alt="{{ $.Title }}">
+        </div>
+        {{ else }}
+        <div class="card-thumb card-thumb--empty"></div>
+        {{ end }}
+        <div class="card-body">
+          {{ with .Params.categories }}
+          <span class="card-category">{{ index . 0 }}</span>
+          {{ end }}
+          <h3 class="card-title"><a href="{{ .RelPermalink }}">{{ .Title }}</a></h3>
+          <time class="card-date">{{ .Date.Format "2006.01.02" }}</time>
+        </div>
+      </article>
+      {{ else }}
+      <p class="no-posts">記事はまだありません。</p>
+      {{ end }}
+    </div>
+
+    {{ $paginator := .Paginator }}
+    {{ if gt $paginator.TotalPages 1 }}
+    <nav class="pagination">
+      {{ if $paginator.HasPrev }}
+      <a class="pagination-btn" href="{{ $paginator.Prev.URL }}">← 前のページ</a>
+      {{ end }}
+      {{ if $paginator.HasNext }}
+      <a class="pagination-btn" href="{{ $paginator.Next.URL }}">次のページ →</a>
+      {{ end }}
+    </nav>
+    {{ end }}
+
+  </div>
+</section>
+{{ end }}

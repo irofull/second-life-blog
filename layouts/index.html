@@ -1,0 +1,64 @@
+{{ define "main" }}
+
+{{/* ─── Hero ─────────────────────────────────────── */}}
+<section class="hero">
+  <div class="hero-overlay"></div>
+  <div class="hero-content">
+    <p class="hero-tagline">Imagine a richer second life.</p>
+    <hr class="hero-rule-thin">
+    <p class="hero-title">The best is yet to come.</p>
+    <p class="hero-subtitle">これからが、いちばんいい。</p>
+    <hr class="hero-rule-thin">
+    <p class="hero-catch">賢く・お得に・自分らしく</p>
+    <p class="hero-name">— Rumie —</p>
+    <a href="/posts/" class="hero-btn">記事を読む →</a>
+  </div>
+</section>
+
+{{/* ─── Latest Posts ────────────────────────────── */}}
+<section class="latest-posts">
+  <div class="container">
+    <h2 class="section-title">最新記事</h2>
+    <div class="posts-grid">
+      {{ range first 3 (where .Site.RegularPages "Type" "posts") }}
+      <article class="post-card">
+        {{ with .Params.thumbnail }}
+        <div class="card-thumb">
+          <img src="{{ . }}" alt="{{ $.Title }}">
+        </div>
+        {{ else }}
+        <div class="card-thumb card-thumb--empty"></div>
+        {{ end }}
+        <div class="card-body">
+          {{ with .Params.categories }}
+          <span class="card-category">{{ index . 0 }}</span>
+          {{ end }}
+          <h3 class="card-title"><a href="{{ .RelPermalink }}">{{ .Title }}</a></h3>
+          <time class="card-date">{{ .Date.Format "2006.01.02" }}</time>
+        </div>
+      </article>
+      {{ else }}
+      <p class="no-posts">記事はまだありません。</p>
+      {{ end }}
+    </div>
+  </div>
+</section>
+
+{{/* ─── Profile ─────────────────────────────────── */}}
+<section class="profile">
+  <div class="container">
+    <div class="profile-avatar"></div>
+    <p class="profile-name">Rumie</p>
+    <p class="profile-bio">50代からの暮らしを、もっと賢く・お得に・自分らしく。<br>旅・健康・AI・お金・バレエ、日々の発見を綴ります。</p>
+    <ul class="profile-tags">
+      <li>健康</li>
+      <li>旅行</li>
+      <li>AI活用</li>
+      <li>お金</li>
+      <li>バレエ</li>
+      <li>暮らし</li>
+    </ul>
+  </div>
+</section>
+
+{{ end }}

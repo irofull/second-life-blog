@@ -236,10 +236,10 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .profile-avatar {
-  width: 88px;
-  height: 88px;
+  width: 130px;
+  height: 130px;
   border-radius: 50%;
-  background-color: var(--color-blue-gray);
+  object-fit: cover;
   border: 2px solid var(--color-gold);
 }
 
@@ -439,4 +439,13 @@ h1, h2, h3, h4, h5, h6 {
 
 .pagination-btn:hover {
   background: rgba(201, 168, 76, 0.12);
+}
+
+/* ─── Article Images ─────────────────────────────── */
+.article-img {
+  max-width: 700px;
+  width: 100%;
+  display: block;
+  margin: 24px auto;
+  border-radius: 8px;
 }

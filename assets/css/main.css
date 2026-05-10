@@ -441,6 +441,47 @@ h1, h2, h3, h4, h5, h6 {
   background: rgba(201, 168, 76, 0.12);
 }
 
+/* ─── More Button ───────────────────────────────── */
+.more-btn {
+  display: inline-block;
+  padding: 12px 48px;
+  border: 1px solid var(--color-gold);
+  color: var(--color-gold);
+  background: transparent;
+  font-family: Georgia, serif;
+  font-size: 13px;
+  letter-spacing: 3px;
+  text-decoration: none;
+  transition: background 0.2s;
+}
+
+.more-btn:hover {
+  background: rgba(201, 168, 76, 0.15);
+}
+
+/* ─── Back to Top ───────────────────────────────── */
+.back-to-top {
+  display: inline-block;
+  font-family: Georgia, serif;
+  font-size: 13px;
+  letter-spacing: 2px;
+  color: var(--color-gold);
+  text-decoration: none;
+  border: 1px solid var(--color-gold);
+  padding: 6px 20px;
+  transition: background 0.2s;
+  margin-bottom: 32px;
+}
+
+.back-to-top:hover {
+  background: rgba(201, 168, 76, 0.12);
+}
+
+.back-to-top--bottom {
+  margin-top: 48px;
+  margin-bottom: 0;
+}
+
 /* ─── Article Images ─────────────────────────────── */
 .article-img {
   max-width: 700px;

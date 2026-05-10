@@ -20,7 +20,7 @@
   <div class="container">
     <h2 class="section-title">最新記事</h2>
     <div class="posts-grid">
-      {{ range first 3 (where .Site.RegularPages "Type" "posts") }}
+      {{ range first 6 (where .Site.RegularPages "Type" "posts") }}
       <article class="post-card">
         {{ with .Params.thumbnail }}
         <div class="card-thumb">
@@ -40,6 +40,9 @@
       {{ else }}
       <p class="no-posts">記事はまだありません。</p>
       {{ end }}
+    </div>
+    <div style="text-align: center; margin-top: 48px;">
+      <a href="/posts/" class="more-btn">もっと見る →</a>
     </div>
   </div>
 </section>

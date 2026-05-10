@@ -1,9 +1,11 @@
 {{ define "main" }}
 <div class="article-wrap">
+  <a href="/" class="back-to-top">← TOP</a>
   <h1 class="article-title">{{ .Title }}</h1>
   <time class="article-date">{{ .Date.Format "2006.01.02" }}</time>
   <div class="article-content">
     {{ .Content }}
   </div>
+  <a href="/" class="back-to-top back-to-top--bottom">← TOP</a>
 </div>
 {{ end }}

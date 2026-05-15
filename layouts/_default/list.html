@@ -7,6 +7,14 @@
       <hr class="list-rule">
     </div>
 
+    <div style="text-align:center; margin: 40px auto;">
+      <a href="#" onclick="window.scrollTo({top:0,behavior:'smooth'});return false;"
+         style="border: 1px solid #C9A84C; color: #C9A84C; background: transparent;
+                padding: 10px 32px; font-family: Georgia, serif; font-size: 13px;
+                letter-spacing: 2px; border-radius: 2px; display: inline-block;
+                text-decoration: none;">← TOP</a>
+    </div>
+
     <div class="posts-grid">
       {{ range .Paginator.Pages }}
       <article class="post-card">
@@ -28,6 +36,14 @@
       {{ else }}
       <p class="no-posts">記事はまだありません。</p>
       {{ end }}
+    </div>
+
+    <div style="text-align:center; margin: 40px auto;">
+      <a href="#" onclick="window.scrollTo({top:0,behavior:'smooth'});return false;"
+         style="border: 1px solid #C9A84C; color: #C9A84C; background: transparent;
+                padding: 10px 32px; font-family: Georgia, serif; font-size: 13px;
+                letter-spacing: 2px; border-radius: 2px; display: inline-block;
+                text-decoration: none;">← TOP</a>
     </div>
 
     {{ $paginator := .Paginator }}

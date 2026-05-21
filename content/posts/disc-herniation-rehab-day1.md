@@ -3,6 +3,7 @@ title: "初めてのリハビリ。腹筋、使えていませんでした。（
 date: 2026-05-21
 description: "リハビリで知った、スポーツクラブでは教えてくれなかった自分の体のこと。"
 categories: ["健康・運動"]
+thumbnail: "/images/rehab-01-feeling-down.png"
 ---
 
 <img src="/images/rehab-01-feeling-down.png" alt="ヘルニアと診断されて落ち込む女性" class="article-img">

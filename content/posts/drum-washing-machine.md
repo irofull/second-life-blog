@@ -1,7 +1,7 @@
 ---
 title: "清水の舞台から飛び降りたつもりで買ったパナソニックのドラム式洗濯乾燥機。4ヶ月の道のりと、1ヶ月使ったリアルな話"
 date: 2026-04-23
-categories: ["暮らし・家電"]
+categories: ["living"]
 thumbnail: "/images/washing-machine-top.png"
 description: "パナソニックNA-LX129ERーWを買うまでの4ヶ月の道のりと、メルカリ活用、目的別口座での資金準備、1ヶ月使ったリアルな感想を正直に書きました。"
 ---

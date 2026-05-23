@@ -1,7 +1,7 @@
 ---
 title: "50代、遅ればせながらメルカリ始めてみました｜不安だったけど売れました"
 date: 2026-05-07
-categories: ["暮らし・家電"]
+categories: ["living"]
 thumbnail: "/images/mercari-beginner-top.png"
 description: "50代がはじめてメルカリに挑戦。不安だったけど意外とシンプルで売れました。初心者の体験談をリアルにお届けします。"
 ---

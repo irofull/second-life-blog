@@ -1,7 +1,7 @@
 ---
 title: "通院日を特別な日に変えたら、母が生き生きしてきた話"
 date: 2026-04-21
-categories: ["旅行・お出かけ"]
+categories: ["go out"]
 thumbnail: "/images/mother-trip-top.png"
 description: "2〜3ヶ月に一度の通院を小旅行に変えたら、母が生き生きしてきました。ホテル選びのコツ、食事の工夫、観光の楽しみ方をお話しします。"
 ---

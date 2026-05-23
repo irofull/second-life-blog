@@ -1,7 +1,7 @@
 ---
 title: "シンクに食器を放置していた私が食洗機を使い始めたら生活が少し変わりました"
 date: 2026-04-19
-categories: ["暮らし・家電"]
+categories: ["living"]
 thumbnail: "/images/dishwasher-top.png"
 description: "マンションについていた食洗機をずっと使わずにいた私が、夫の一言をきっかけに使い始めたら生活が少し変わりました。完璧じゃない使い方でも大丈夫。"
 ---

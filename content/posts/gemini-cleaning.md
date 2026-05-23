@@ -2,7 +2,7 @@
 title: "洗濯機が来るまでの1日、Geminiと一緒に大掃除してみた。"
 date: 2026-05-22
 description: "トイレ換気口と排水溝の掃除方法、AIに写真を送ったら教えてくれた話（笑）"
-categories: ["AI・デジタル", "暮らし・家電"]
+categories: ["digital", "living"]
 thumbnail: "/images/gemini-cleaning-01-laundry-pan.png"
 ---
 

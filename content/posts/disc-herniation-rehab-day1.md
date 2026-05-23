@@ -2,7 +2,7 @@
 title: "初めてのリハビリ。腹筋、使えていませんでした。（笑）"
 date: 2026-05-21
 description: "リハビリで知った、スポーツクラブでは教えてくれなかった自分の体のこと。"
-categories: ["健康・運動"]
+categories: ["health"]
 thumbnail: "/images/rehab-01-feeling-down.png"
 ---
 

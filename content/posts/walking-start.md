@@ -1,7 +1,7 @@
 ---
 title: "50代、立夏からゆるっとウォーキング、始めます。やらない日があってもいい。"
 date: 2026-05-01
-categories: ["健康・運動"]
+categories: ["health"]
 thumbnail: "/images/walking_01_morning_window.png"
 description: "疲れやすくなった50代の体と向き合って、ゆるっとウォーキングを始めることにしました。完璧にやろうとは思っていません。マイペースに続けてみます。"
 ---

@@ -1,7 +1,7 @@
 ---
 title: "偶然の宝石箱や～💎 鳥取城跡で五感を研ぎ澄ました話"
 date: 2026-05-04
-categories: ["旅行"]
+categories: ["go out"]
 thumbnail: "/images/tottori_01_entrance.jpg"
 description: "雨予報の朝、偶然が重なって鳥取城跡へ。100円バスで辿り着いた景色の中で、五感が静かに研ぎ澄まされた数十分の話です。"
 ---

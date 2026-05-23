@@ -1,7 +1,7 @@
 ---
 title: "スポーツクラブ歴37年。私がずっと通い続けた理由"
 date: 2026-04-20
-categories: ["健康・運動"]
+categories: ["health"]
 thumbnail: "/images/gym-top.png"
 description: "スポーツクラブに通い始めて37年。8カ所を渡り歩いた私がずっと続けられた理由と、シニアパワーに元気をもらっている話をお届けします。"
 ---

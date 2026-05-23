@@ -1,7 +1,7 @@
 ---
 title: "今日のわたし、ちょっと複雑。ヘルニアと診断されたけど、これも自分を知るチャンスだと思う話"
 date: 2026-05-07
-categories: ["健康・運動"]
+categories: ["health"]
 thumbnail: "/images/disc-herniation-top.png"
 description: "整形外科でヘルニアと診断された日のこと。MRIが苦手だったこと、まさかのコーヒー禁止令、そして複雑な気持ちの中で感じた前向きな気づきをお話しします。"
 ---

@@ -26,6 +26,19 @@ description: "パナソニックNA-LX129ERーWを買うまでの4ヶ月の道の
 **購入価格：348,480円（税込）**  
 この商品はどこのお店で買っても値引き対象外でしたが、12月ごろにメーカーが少しだけ値下げ。この物価高、検討されている方は一刻も早い購入をおすすめします。
 
+<!-- START MoshimoAffiliateEasyLink -->
+<script type="text/javascript">
+(function(b,c,f,g,a,d,e){b.MoshimoAffiliateObject=a;
+b[a]=b[a]||function(){arguments.currentScript=c.currentScript
+||c.scripts[c.scripts.length-2];(b[a].q=b[a].q||[]).push(arguments)};
+c.getElementById(a)||(d=c.createElement(f),d.src=g,
+d.id=a,e=c.getElementsByTagName("body")[0],e.appendChild(d))})
+(window,document,"script","//dn.msmstatic.com/site/cardlink/bundle.js?20220329","msmaflink");
+msmaflink({"n":"【無料延長保証】 Panasonic｜パナソニック ドラム式洗濯乾燥機 LXシリーズ マットホワイト NA-LX129ER-W [洗濯12.0kg \/乾燥6.0kg \/ヒートポンプ乾燥 \/右開き]","b":"","t":"","d":"https:\/\/thumbnail.image.rakuten.co.jp","c_p":"\/@0_mall\/biccamera\/cabinet\/product\/13786","p":["\/00000014325896_a01.jpg","\/00000014325896_a02.jpg","\/00000014325896_a03.jpg"],"u":{"u":"https:\/\/item.rakuten.co.jp\/biccamera\/4550719001554\/","t":"rakuten","r_v":""},"v":"2.1","b_l":[{"id":1,"u_tx":"楽天市場で見る","u_bc":"#f76956","u_url":"https:\/\/item.rakuten.co.jp\/biccamera\/4550719001554\/","a_id":5590049,"p_id":54,"pl_id":27059,"pc_id":54,"s_n":"rakuten","u_so":1}],"eid":"gZvIJ","s":"s"});
+</script>
+<div id="msmaflink-gZvIJ">リンク</div>
+<!-- MoshimoAffiliateEasyLink END -->
+
 <img src="/images/washing-machine-worry.png" alt="洗濯機の価格を見て悩む女性" class="article-img">
 
 ## 買う前にやったこと：目的別口座に資金を担保
@@ -119,6 +132,19 @@ AIのおかげで、洗濯機周りがピカピカに！
 **結論：買って本当に良かったです。**
 
 干す時間がなくなった分、自分の時間が増えました。タオルは本当にふかふかです。花粉の季節も怖くありません。セカンドライフをもっと豊かにしてくれる家電として、自信を持っておすすめできます。
+
+<!-- START MoshimoAffiliateEasyLink -->
+<script type="text/javascript">
+(function(b,c,f,g,a,d,e){b.MoshimoAffiliateObject=a;
+b[a]=b[a]||function(){arguments.currentScript=c.currentScript
+||c.scripts[c.scripts.length-2];(b[a].q=b[a].q||[]).push(arguments)};
+c.getElementById(a)||(d=c.createElement(f),d.src=g,
+d.id=a,e=c.getElementsByTagName("body")[0],e.appendChild(d))})
+(window,document,"script","//dn.msmstatic.com/site/cardlink/bundle.js?20220329","msmaflink");
+msmaflink({"n":"【無料延長保証】 Panasonic｜パナソニック ドラム式洗濯乾燥機 LXシリーズ マットホワイト NA-LX129ER-W [洗濯12.0kg \/乾燥6.0kg \/ヒートポンプ乾燥 \/右開き]","b":"","t":"","d":"https:\/\/thumbnail.image.rakuten.co.jp","c_p":"\/@0_mall\/biccamera\/cabinet\/product\/13786","p":["\/00000014325896_a01.jpg","\/00000014325896_a02.jpg","\/00000014325896_a03.jpg"],"u":{"u":"https:\/\/item.rakuten.co.jp\/biccamera\/4550719001554\/","t":"rakuten","r_v":""},"v":"2.1","b_l":[{"id":1,"u_tx":"楽天市場で見る","u_bc":"#f76956","u_url":"https:\/\/item.rakuten.co.jp\/biccamera\/4550719001554\/","a_id":5590049,"p_id":54,"pl_id":27059,"pc_id":54,"s_n":"rakuten","u_so":1}],"eid":"gZvIJ","s":"s"});
+</script>
+<div id="msmaflink-gZvIJ">リンク</div>
+<!-- MoshimoAffiliateEasyLink END -->
 
 ---
 

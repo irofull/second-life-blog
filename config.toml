@@ -1,4 +1,4 @@
-baseURL = "/"
+baseURL = "https://rumiehappiness.com/"
 languageCode = "ja"
 title = "The best is yet to come."
 paginate = 6

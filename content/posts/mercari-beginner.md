@@ -1,5 +1,5 @@
 ---
-title: "50代、遅ればせながらメルカリ始めてみました｜不安だったけど売れました"
+title: "メルカリ初心者の50代主婦が、初めて出品して売れるまでにやったこと"
 date: 2026-05-07
 categories: ["living"]
 thumbnail: "/images/mercari-beginner-top.png"

@@ -1,5 +1,5 @@
 ---
-title: "清水の舞台から飛び降りたつもりで買ったパナソニックのドラム式洗濯乾燥機。4ヶ月の道のりと、1ヶ月使ったリアルな話"
+title: "50代主婦がドラム式洗濯乾燥機に踏み切った理由と、1ヶ月使ったホンネ"
 date: 2026-04-23
 categories: ["living"]
 thumbnail: "/images/washing-machine-top.png"

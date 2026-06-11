@@ -4,6 +4,7 @@ date: 2026-04-23
 categories: ["living"]
 thumbnail: "/images/washing-machine-top.png"
 description: "パナソニックNA-LX129ERーWを買うまでの4ヶ月の道のりと、メルカリ活用、目的別口座での資金準備、1ヶ月使ったリアルな感想を正直に書きました。"
+affiliate: true
 ---
 
 <img src="/images/washing-machine-top.png" alt="パナソニックのドラム式洗濯乾燥機と女性" class="article-img">

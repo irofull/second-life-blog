@@ -311,6 +311,14 @@ h1, h2, h3, h4, h5, h6 {
   margin: 0 0 1.6em;
 }
 
+.article-content img {
+  max-width: 700px;
+  width: 100%;
+  display: block;
+  margin: 24px auto;
+  border-radius: 8px;
+}
+
 /* ─── Footer ─────────────────────────────────────── */
 .site-footer {
   background-color: var(--color-navy);

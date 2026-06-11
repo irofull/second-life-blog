@@ -3,7 +3,7 @@ title: "シンクに食器を放置していた私が食洗機を使い始めた
 date: 2026-04-19
 categories: ["living"]
 thumbnail: "/images/dishwasher-top.png"
-description: "マンションについていた食洗機をずっと使わずにいた私が、夫の一言をきっかけに使い始めたら生活が少し変わりました。完璧じゃない使い方でも大丈夫。"
+description: "疲れた夜は、食器をシンクに放置していました。でも夫のひと言をきっかけに食洗機を使い始めたら、少しだけ、確実に変わったことがありました。完璧じゃなくてよかった。"
 ---
 
 <img src="/images/dishwasher-top.png" alt="夜のキッチンでシンクの食器を見ている女性" class="article-img">

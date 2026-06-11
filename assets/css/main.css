@@ -304,7 +304,17 @@ h1, h2, h3, h4, h5, h6 {
 .affiliate-notice {
   font-size: 12px;
   color: #999999;
-  margin: 0 0 32px;
+  margin: 0 0 16px;
+}
+
+/* ─── Article Summary ────────────────────────────── */
+.article-summary {
+  font-size: 15px;
+  color: #666666;
+  line-height: 1.8;
+  border-top: 0.5px solid var(--color-navy);
+  padding: 16px 0 20px;
+  margin: 0;
 }
 
 .article-content {
@@ -494,6 +504,81 @@ h1, h2, h3, h4, h5, h6 {
 .back-to-top--bottom {
   margin-top: 48px;
   margin-bottom: 0;
+}
+
+/* ─── Table of Contents ──────────────────────────── */
+.toc {
+  background-color: #FAF6EE;
+  border: 1px solid rgba(201, 168, 76, 0.45);
+  border-left: 3px solid var(--color-gold);
+  padding: 20px 24px;
+  margin: 32px 0;
+}
+
+.toc-title {
+  font-family: Georgia, serif;
+  font-size: 14px;
+  font-weight: 700;
+  color: var(--color-navy);
+  letter-spacing: 2px;
+  margin: 0;
+  padding-bottom: 10px;
+  border-bottom: 0.5px solid rgba(201, 168, 76, 0.6);
+}
+
+#TableOfContents {
+  margin-top: 12px;
+}
+
+#TableOfContents ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+#TableOfContents li {
+  margin: 3px 0;
+}
+
+#TableOfContents a {
+  color: var(--color-navy);
+  font-size: 14px;
+  line-height: 1.7;
+  text-decoration: none;
+  transition: color 0.2s;
+}
+
+#TableOfContents a::before {
+  content: "◆";
+  color: var(--color-gold);
+  font-size: 7px;
+  margin-right: 5px;
+  vertical-align: 1px;
+}
+
+#TableOfContents a:hover {
+  color: var(--color-gold);
+}
+
+#TableOfContents ul ul {
+  padding-left: 16px;
+  margin-top: 2px;
+}
+
+#TableOfContents ul ul a {
+  font-size: 13px;
+  color: #666666;
+}
+
+#TableOfContents ul ul a:hover {
+  color: var(--color-gold);
+}
+
+@media (max-width: 640px) {
+  .toc {
+    padding: 16px 18px;
+    margin: 24px 0;
+  }
 }
 
 /* ─── Article Images ─────────────────────────────── */

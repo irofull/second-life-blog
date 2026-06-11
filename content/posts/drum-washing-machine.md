@@ -3,7 +3,7 @@ title: "50代主婦がドラム式洗濯乾燥機に踏み切った理由と、1
 date: 2026-04-23
 categories: ["living"]
 thumbnail: "/images/washing-machine-top.png"
-description: "パナソニックNA-LX129ERーWを買うまでの4ヶ月の道のりと、メルカリ活用、目的別口座での資金準備、1ヶ月使ったリアルな感想を正直に書きました。"
+description: "4ヶ月悩んで、メルカリで旧洗濯機を45,000円で売れたのを機に、ようやく踏み切りました。ドラム式洗濯乾燥機を買うまでの道のりと、1ヶ月使って気づいたリアルな話を正直に書きます。"
 affiliate: true
 ---
 

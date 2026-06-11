@@ -3,7 +3,7 @@ title: "編み物は、究極のエコ。祖母の手が伝えてくれたもの
 date: 2026-05-27
 categories: ["enjoy"]
 thumbnail: "/images/knitting_files/knitting-eyecatch.png"
-description: "祖母との縁側での時間、ニットショップとの出会い、そして編み物が持つ不思議な力について。針を持てる限り、編み続けていたい。"
+description: "縁側で祖母と向かい合って、毛糸玉を作っていたあの時間。それが今でも、私が針を持ち続ける理由のような気がします。編み物が持つ不思議な力と、「究極のエコ」だとマダムが教えてくれました。"
 ---
 
 <img src="/images/knitting_files/knitting-eyecatch.png" alt="編み物と祖母の思い出" class="article-img">

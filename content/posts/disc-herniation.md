@@ -3,7 +3,7 @@ title: "今日のわたし、ちょっと複雑。ヘルニアと診断された
 date: 2026-05-07
 categories: ["health"]
 thumbnail: "/images/disc-herniation-top.png"
-description: "整形外科でヘルニアと診断された日のこと。MRIが苦手だったこと、まさかのコーヒー禁止令、そして複雑な気持ちの中で感じた前向きな気づきをお話しします。"
+description: "整形外科でヘルニアと診断された日のこと。MRIは苦手だし、診察室でコーヒー禁止令まで出るし、なかなか盛りだくさんな一日でした。それでも、自分の体を「ちゃんと知れた」と前向きに受け取ることができました。"
 ---
 
 <img src="/images/disc-herniation-top.png" alt="歩いて病院へ向かう女性" class="article-img">

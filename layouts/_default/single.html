@@ -6,6 +6,16 @@
   {{ if .Params.affiliate }}
   <p class="affiliate-notice">※本記事にはアフィリエイトリンクを含みます</p>
   {{ end }}
+  {{ if .Params.description }}
+  <p class="article-summary">{{ .Params.description }}</p>
+  {{ end }}
+  {{ $toc := .TableOfContents }}
+  {{ if ge (len (findRE "<li>" $toc)) 2 }}
+  <div class="toc">
+    <p class="toc-title">目次</p>
+    {{ $toc }}
+  </div>
+  {{ end }}
   <div class="article-content">
     {{ .Content }}
   </div>

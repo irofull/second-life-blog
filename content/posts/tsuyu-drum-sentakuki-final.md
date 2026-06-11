@@ -3,7 +3,7 @@ title: "梅雨の洗濯ストレスがゼロに｜ドラム式洗濯乾燥機の
 date: 2026-06-11
 categories: ["living"]
 thumbnail: "/images/tsuyu-drum/tsuyu-drum-eyecatch.png"
-description: "梅雨の洗濯ストレスから解放されたい方へ。パナソニックのドラム式洗濯乾燥機に変えて変わった暮らしを、デメリットも含めて正直にレビューします。"
+description: "「今日、雨かな……」晴れ間を見つけて干して取り込む、それが今年の梅雨はゼロになりました。ドラム式洗濯乾燥機で変わった暮らしを、デメリットも包み隠さず正直レビュー。"
 affiliate: true
 ---
 

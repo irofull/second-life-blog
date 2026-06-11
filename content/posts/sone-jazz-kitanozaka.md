@@ -3,7 +3,7 @@ title: "神戸・北野坂のジャズバーSONEで、昼下がりの贅沢な�
 date: 2026-06-03
 categories: ["go out"]
 thumbnail: "/images/sone-jazz-kitanozaka/sone-kitanozaka-rumie.png"
-description: "神戸・北野坂の老舗ジャズバーSONEで聴く、日曜の昼下がりの生演奏。1,000円から楽しめる、ちょっと贅沢な寄り道の記録。"
+description: "日曜の昼下がり、神戸・北野坂の老舗ジャズバーSONEへ。1,000円で生演奏が聴けて、ビールとナッツを頼んでも2,500円。贅沢って、高いお金のことじゃないんですね。"
 ---
 
 <img src="/images/sone-jazz-kitanozaka/sone-kitanozaka-rumie.png" alt="神戸・北野坂のジャズバーSONEで昼下がりを過ごす女性" class="article-img">

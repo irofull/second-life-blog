@@ -3,7 +3,7 @@ title: "メルカリ初心者の50代主婦が、初めて出品して売れる�
 date: 2026-05-07
 categories: ["living"]
 thumbnail: "/images/mercari-beginner-top.png"
-description: "50代がはじめてメルカリに挑戦。不安だったけど意外とシンプルで売れました。初心者の体験談をリアルにお届けします。"
+description: "「今さら？」「トラブルにならない？」不安だらけで始めたメルカリでしたが、やってみたら想像よりずっとシンプルでした。初めて出品して、売れて、発送するまでのリアルな体験。"
 ---
 
 <img src="/images/mercari-beginner-top.png" alt="50代がはじめてメルカリに挑戦" class="article-img">

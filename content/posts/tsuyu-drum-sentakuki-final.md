@@ -1,9 +1,9 @@
 ---
 title: "梅雨の洗濯ストレスがゼロに｜ドラム式洗濯乾燥機のメリット・デメリットを正直レビュー"
-description: "梅雨の洗濯ストレスから解放されたい方へ。パナソニックのドラム式洗濯乾燥機に変えて変わった暮らしを、デメリットも含めて正直にレビューします。"
-image: "/images/tsuyu-drum/tsuyu-drum-eyecatch.png"
 date: 2026-06-11
-draft: false
+categories: ["living"]
+thumbnail: "/images/tsuyu-drum/tsuyu-drum-eyecatch.png"
+description: "梅雨の洗濯ストレスから解放されたい方へ。パナソニックのドラム式洗濯乾燥機に変えて変わった暮らしを、デメリットも含めて正直にレビューします。"
 ---
 
 ![梅雨でも洗濯ストレスゼロ｜ドラム式洗濯乾燥機のある暮らし](/images/tsuyu-drum/tsuyu-drum-eyecatch.png)

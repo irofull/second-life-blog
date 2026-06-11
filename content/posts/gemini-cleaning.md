@@ -128,7 +128,7 @@ thumbnail: "/images/gemini-cleaning-01-laundry-pan.png"
 
 ## おわりに――洗濯機のない1日が、思わぬ大掃除になった
 
-<img src="/images/gemini-cleaning-03-finish.png" alt="ピカピカになった洗面所で満足する女性" class="article-img">
+<img src="/images/gemini-cleaning-03-finish-v2.png" alt="ピカピカになった洗面所で満足する女性" class="article-img">
 
 新しい洗濯機が届いた時、洗濯機パンも排水溝もトイレの換気口も、ピカピカの状態で迎えることができました。
 

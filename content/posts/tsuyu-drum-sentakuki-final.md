@@ -17,7 +17,7 @@ draft: false
 
 去年までの私がそうでした。
 
-![梅雨の洗濯に悩んでいた頃の様子](/images/tsuyu-drum/tsuyu-drum-before-nayami.png)
+![梅雨の洗濯に悩んでいた頃の様子](/images/tsuyu-drum/tsuyu-drum-before-nayami.jpg)
 
 でも今年の梅雨は、まったく違います。**ドラム式洗濯乾燥機**に変えたからです。
 

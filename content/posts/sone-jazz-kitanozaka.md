@@ -20,7 +20,7 @@ description: "日曜の昼下がり、神戸・北野坂の老舗ジャズバー
 
 ## 神戸とジャズは、切っても切れない
 
-<img src="/images/sone-jazz-kitanozaka/sone-exterior.jpeg" alt="北野坂に佇むジャズバーSONEの外観" class="article-img">
+<img src="/images/sone-jazz-kitanozaka/sone-exterior-new.jpg" alt="北野坂に佇むジャズバーSONEの外観" class="article-img">
 
 ジャズが日本に入ってきたのは大正時代。最初に根付いた街のひとつが、神戸だったと言われています。港町で外国文化に開かれていた神戸は、ジャズが育ちやすい土壌だったのかもしれません。
 
@@ -32,7 +32,7 @@ SONEが北野坂に誕生したのは1969年。以来、半世紀以上にわた
 
 ## 昼間なのに、夜の雰囲気がある
 
-<img src="/images/sone-jazz-kitanozaka/sone-bar-counter.jpeg" alt="アンティークなバーカウンターが並ぶSONEの店内" class="article-img">
+<img src="/images/sone-jazz-kitanozaka/sone-bar-counter-new.jpg" alt="アンティークなバーカウンターが並ぶSONEの店内" class="article-img">
 
 今回訪れたのは日曜の昼下がり。でも店内は薄暗くて、ちゃんとジャズバーの夜の雰囲気があります。
 
@@ -46,7 +46,7 @@ SONEが北野坂に誕生したのは1969年。以来、半世紀以上にわた
 
 ## 日曜だけ、昼も開いている
 
-<img src="/images/sone-jazz-kitanozaka/sone-beer-nuts.jpeg" alt="ビールとナッツで昼下がりのジャズを楽しむ" class="article-img">
+<img src="/images/sone-jazz-kitanozaka/sone-beer-nuts-new.jpg" alt="ビールとナッツで昼下がりのジャズを楽しむ" class="article-img">
 
 SONEは夜のイメージが強いお店ですが、日曜日だけは昼も営業しています。
 

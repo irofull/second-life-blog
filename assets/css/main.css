@@ -34,7 +34,7 @@ h1, h2, h3, h4, h5, h6 {
 /* ─── Hero ───────────────────────────────────────── */
 .hero {
   position: relative;
-  height: 85vh;
+  height: 60vh;
   background-image: url('/images/hero.jpg');
   background-size: cover;
   background-position: center;
@@ -60,7 +60,7 @@ h1, h2, h3, h4, h5, h6 {
   display: flex;
   flex-direction: column;
   align-items: center;
-  gap: 10px;
+  gap: 8px;
 }
 
 .hero-tagline {
@@ -80,7 +80,7 @@ h1, h2, h3, h4, h5, h6 {
 
 .hero-title {
   font-family: Georgia, serif;
-  font-size: 34px;
+  font-size: 28px;
   font-weight: 400;
   color: #ffffff;
   letter-spacing: 1px;
@@ -90,7 +90,7 @@ h1, h2, h3, h4, h5, h6 {
 
 .hero-subtitle {
   font-family: Georgia, serif;
-  font-size: 20px;
+  font-size: 16px;
   color: var(--color-gold);
   letter-spacing: 2px;
   margin: 0;
@@ -100,7 +100,7 @@ h1, h2, h3, h4, h5, h6 {
   font-family: Georgia, serif;
   font-size: 15px;
   color: var(--color-blue-gray);
-  letter-spacing: 4px;
+  letter-spacing: 2px;
   margin: 0;
 }
 
@@ -133,7 +133,7 @@ h1, h2, h3, h4, h5, h6 {
 /* ─── Latest Posts ───────────────────────────────── */
 .latest-posts {
   background-color: var(--color-cream);
-  padding: 60px 0;
+  padding: 20px 0 60px;
 }
 
 .section-title {
@@ -574,7 +574,17 @@ h1, h2, h3, h4, h5, h6 {
   color: var(--color-gold);
 }
 
+@media (max-width: 768px) {
+  .posts-grid {
+    grid-template-columns: 1fr;
+  }
+}
+
 @media (max-width: 640px) {
+  .hero {
+    height: 55vh;
+    height: 55svh;
+  }
   .toc {
     padding: 16px 18px;
     margin: 24px 0;
@@ -627,7 +637,7 @@ h1, h2, h3, h4, h5, h6 {
   align-items: center;
   justify-content: center;
   gap: 8px;
-  padding: 24px 12px;
+  padding: 16px 12px;
   text-decoration: none;
   color: #2a3555;
   font-family: Georgia, serif;

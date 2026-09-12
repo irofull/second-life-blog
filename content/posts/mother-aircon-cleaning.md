@@ -2,7 +2,7 @@
 title: "80代の母とエアコン騒動。言い方を変えたら、ちょっといい一日になった"
 date: 2026-09-12
 categories: ["living", "enjoy"]
-thumbnail: "/images/mother-aircon_files/eyecatch.jpg"
+thumbnail: "/images/mother-aircon_files/eyecatch-v2.jpg"
 description: "エアコンがすぐ切れると電話をくれた80代の母。リモコンの小さな文字を虫眼鏡でのぞく姿に、言い方を少しだけ変えてみました。5年ぶりのエアコンクリーニングと、母の家を整えた一日の話。"
 ---
 

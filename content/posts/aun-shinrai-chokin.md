@@ -22,7 +22,7 @@ description: "言葉にしなくても伝わるのが、密かな楽しみだっ
 
 最近では、「今日はゴミの日だった！」と私が言っただけで、夫がサッと着替えて、ゴミ出しをしてくれました。
 
-<img src="/images/aun_files/garbage-day.jpg" alt="ゴミ袋を持って出かける夫を見送る妻" class="article-img">
+<img src="/images/aun_files/garbage-day.jpg" alt="ゴミ袋を持って出かける夫を見送る妻" class="article-img article-img--wide" style="object-position: 50% 45%">
 
 だから私は、ちょっとしたゲームのように、わざと言葉を減らす癖がありました。
 
@@ -74,7 +74,7 @@ description: "言葉にしなくても伝わるのが、密かな楽しみだっ
 
 ゼロの相手に、貯金があるつもりで話していたのですから、通じるはずがありませんでした。
 
-<img src="/images/aun_files/moving-boxes.jpg" alt="引っ越しの段ボールと、窓辺の空っぽの瓶" class="article-img">
+<img src="/images/aun_files/moving-boxes.jpg" alt="引っ越しの段ボールと、窓辺の空っぽの瓶" class="article-img article-img--wide" style="object-position: 50% 30%">
 
 ## 貯まり方は、人それぞれ
 
@@ -116,7 +116,7 @@ description: "言葉にしなくても伝わるのが、密かな楽しみだっ
 
 上からでも下からでもなく、同じ高さで、情報だけを丁寧に。
 
-<img src="/images/aun_files/cafe-talk.jpg" alt="カフェで向かい合って丁寧に話す二人" class="article-img">
+<img src="/images/aun_files/cafe-talk.jpg" alt="カフェで向かい合って丁寧に話す二人" class="article-img article-img--wide" style="object-position: 50% 55%">
 
 ## あうんの呼吸は、やめません
 

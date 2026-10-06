@@ -187,3 +187,18 @@ description: "エアコンがすぐ切れると電話をくれた80代の母。�
 エアコンをきれいにしてもらった一日。
 
 でも振り返ってみると、少し整ったのは母の家だけではなく、**私と母の間の空気もだったのかもしれません。**
+
+<div class="section-gap"></div>
+
+## おまけ:母との片づけで、モヤモヤして曲を作りました
+
+この日のエアコン騒動は、ちょっといい一日になりました。
+でも正直に言うと、母の家の片づけでは、モヤモヤすることのほうが多いです。
+
+捨てていいのか、取っておきたいのか。手伝いたい気持ちと、母のペースを大事にしたい気持ち。うまく言葉にできなくて、気がついたら曲にしていました。
+
+片づけに困った気持ちを、歌にしてみました。お茶のおともにどうぞ。
+
+<div class="video-embed">
+  <iframe src="https://www.youtube-nocookie.com/embed/0xOJY21D8so?cc_load_policy=0" title="片づけに困った気持ちを歌にしました" loading="lazy" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen referrerpolicy="strict-origin-when-cross-origin"></iframe>
+</div>
